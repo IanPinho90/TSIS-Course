@@ -9,36 +9,22 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanPinho90&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="most used languages"/>
 </div> 
 
-    <img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-</div>-->
+   
+  
 
 <h2>Learning</h2>
   <p>
-  <img src="https://camo.githubusercontent.com/77db13d779784b2a9f974d451306d2be7147eab22d389219adbc6898efe6aae6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e4a532d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6162656c436f6c6f723d3044313131372674657874436f6c6f723d304431313137" alt="NodeJS" data-canonical-src="https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&amp;logo=node.js&amp;labelColor=0D1117&amp;textColor=0D1117" style="max-width: 100%;">
-
-  <img src="https://camo.githubusercontent.com/f51bee89dcc6e95ace4b767c808a8b7b1078c2dad5821d5b9d0b20ebdbc8649f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6162656c436f6c6f723d3044313131372674657874436f6c6f723d304431313137" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&amp;logo=javascript&amp;labelColor=0D1117&amp;textColor=0D1117" style="max-width: 100%;">
+   <img src="https://camo.githubusercontent.com/45e2dbe090c9af5fed72b44f1ffec97170cd0a8611595c52b6d56bd38d555fa7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6162656c436f6c6f723d304431313137" alt="HTML" data-canonical-src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&amp;logo=html5&amp;labelColor=0D1117" style="max-width: 100%;">
   
-   <img src="https://img.shields.io/badge/-php-0D1117?style=for-the-badge&amp;logo=PHP&amp;labelColor=0D1117" alt="PHP" style="max-width:100%; width:60px; height:25px; margin-top: 30px; border-radius:20px;"/>
-  
-  <img src="https://img.shields.io/badge/-apache-0D1117?style=for-the-badge&amp;logo=apache&amp;labelColor=0D1117" alt="Apache" style="max-width:100%;">    
-  
+<img src="https://camo.githubusercontent.com/9216b7616a53e8ba8c5f610cb2c2e20a01647e7a628ccb041a2f374222a97280/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d43535333266c6f676f436f6c6f723d313537324236266c6162656c436f6c6f723d304431313137" alt="CSS3" data-canonical-src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&amp;logo=CSS3&amp;logoColor=1572B6&amp;labelColor=0D1117" style="max-width: 100%;"> 
+ 
+ <img src="https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117" alt="Microsoft Office" style="max-width: 100%;">
+ 
   </p>
   
   <h2>Skills</h2>
   <p>
  
-  <img src="https://camo.githubusercontent.com/45e2dbe090c9af5fed72b44f1ffec97170cd0a8611595c52b6d56bd38d555fa7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6162656c436f6c6f723d304431313137" alt="HTML" data-canonical-src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&amp;logo=html5&amp;labelColor=0D1117" style="max-width: 100%;">
-  
-  <img src="https://camo.githubusercontent.com/9216b7616a53e8ba8c5f610cb2c2e20a01647e7a628ccb041a2f374222a97280/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d43535333266c6f676f436f6c6f723d313537324236266c6162656c436f6c6f723d304431313137" alt="CSS3" data-canonical-src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&amp;logo=CSS3&amp;logoColor=1572B6&amp;labelColor=0D1117" style="max-width: 100%;"> 
-  
-  <img src="https://img.shields.io/badge/-sass-0D1117?style=for-the-badge&amp;logo=sass&amp;labelColor=0D1117" alt="Sass" style="max-width: 100%;">
-  
-  <img src="https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117" alt="Microsoft Office" style="max-width: 100%;">
- 
-  <img src="https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117" alt="Figma" style="max-width: 100%;">
- 
-  <img src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117" alt="Bootstrap" style="max-width: 100%;">
  
  </p>
   
