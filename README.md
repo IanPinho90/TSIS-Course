@@ -36,8 +36,6 @@
 <img src="https://camo.githubusercontent.com/47b2548090275343ba6a63eea0c9e30c73f2a686fdf8f6c82f35094778fde6d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6162656c436f6c6f723d304431313137" alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&amp;logo=windows&amp;labelColor=0D1117" style="max-width: 100%;">
   </p>
 
-<br><p align="center" dir="auto"><b>Visitors Count</b></p>  
-<p align="center" dir="auto"><img align="center" src="https://profile-counter.glitch.me/%7IanPinho90%7D/count.svg" data-canonical-src="https://profile-counter.glitch.me/{IanPinho90}/count.svg" style="max-width: 100%;"></p> 
-<br></div>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer" alt="footer wave image"/>
